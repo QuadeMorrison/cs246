@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Favorite Scripture</string>
+    <string name="book">Enter a book name. (Must be letters)</string>
+    <string name="chapter">What chapter? (Must be a number)</string>
+    <string name="verse">What verse? (Must be a number)</string>
+    <string name="button">Send</string>
+    <string name="display_activity">Display</string>
+</resources>
